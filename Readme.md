@@ -30,7 +30,7 @@ Sinta-se à vontade para explorar o código-fonte e fazer sugestões de melhoria
 
 ## 🌐 Visite Meu Portfólio
 
-Explore [meu portfólio](https://seusiteaqui.com) para ver meus projetos, habilidades e experiência. Sinta-se à vontade para entrar em contato comigo através das redes sociais abaixo:
+Explore [meu portfólio](https://profile-develany.vercel.app/) para ver meus projetos, habilidades e experiência. Sinta-se à vontade para entrar em contato comigo através das redes sociais abaixo:
 
 - [LinkedIn](https://www.linkedin.com/in/elany-peixoto/)
 - [GitHub](https://github.com/develany)
